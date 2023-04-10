@@ -11,9 +11,11 @@
             "id": "960fa16d553823d5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/backend/Pasted image 20230321233022.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/backend/Pasted image 20230321233022.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/backend/Pasted image 20230321233022.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/backend/Pasted image 20230321233022.png"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +148,8 @@
   },
   "active": "960fa16d553823d5",
   "lastOpenFiles": [
-    "assets/images/backend/Pasted image 20230325000240.png",
     "assets/images/backend/Pasted image 20230321233022.png",
+    "assets/images/backend/Pasted image 20230325000240.png",
     "assets/images/backend/The-Physical-Layer-in-OSI-Model-Explained-thumbnail.jpeg",
     "assets/images/backend/Screen Shot 2023-03-29 at 8.38.54 PM.png",
     "assets/images/backend/Screen Shot 2023-03-28 at 12.02.17 AM 1.png",

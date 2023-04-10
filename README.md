@@ -1,2 +1,3 @@
 # Brain
-Initial
+
+Notes for studies
