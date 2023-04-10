@@ -11,9 +11,11 @@
             "id": "960fa16d553823d5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/backend/Pasted image 20230329221651.png"
+                "file": "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/backend/Pasted image 20230329221651.png",
+                "file": "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/backend/Pasted image 20230329221651.png",
+                "file": "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/backend/Pasted image 20230329221651.png"
+                "file": "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md"
               }
             }
           }
@@ -146,9 +148,13 @@
   },
   "active": "960fa16d553823d5",
   "lastOpenFiles": [
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Further Studying.md",
+    "Resources/Programming/Multiplexing - Demultiplexing.md",
+    "Archives",
+    "Resources/Programming/AVX.md",
+    "assets/images/backend/Pasted image 20230329221651.png",
     "assets/images/backend/Pasted image 20230329221747.png",
     "assets/images/backend/Pasted image 20230329221809.png",
-    "assets/images/backend/Pasted image 20230329221651.png",
     "assets/images/backend/Pasted image 20230329204928.png",
     "assets/images/backend/Pasted image 20230329204758.png",
     "assets/images/backend/Pasted image 20230329010216.png",
@@ -156,9 +162,7 @@
     "assets/images/backend/Pasted image 20230326153458.png",
     "assets/images/backend/Pasted image 20230326143108.png",
     "assets/images/backend/http1.png",
-    "assets/images/backend/Pasted image 20230329205334.png",
     "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Backend Communication Design Patterns.md",
-    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Further Studying.md",
     "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md",
     "README.md",
     "assets/images/postgres/migrations",
@@ -178,8 +182,6 @@
     "Areas/Programming/Backend/Databases/Postgres/Client Interfaces",
     "Resources/Programming/TCP.md",
     "Resources/Programming/Long Polling vs WebSockets vs SSE.md",
-    "Resources/Programming/Multiplexing - Demultiplexing.md",
-    "Resources/Programming/AVX.md",
     "Resources/Programming/Virtual Functions.md",
     "Areas/Programming/Backend/Databases/Postgres/Server Administration/Vacuum.md",
     "Areas/Programming/Backend/Databases/Postgres/Server Administration/Testing.md",
@@ -190,7 +192,6 @@
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Indexes/Overview.md",
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Queries/Overview.md",
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Overview.md",
-    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Manipulation/Overview.md",
-    "assets/images/postgres/queries/009_-_joins_-_cheatsheet.pdf"
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Manipulation/Overview.md"
   ]
 }
