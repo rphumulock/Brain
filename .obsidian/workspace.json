@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/images/backend/Screen Shot 2023-03-27 at 9.41.16 PM.png"
+                "file": "assets/images/backend/Pasted image 20230321233022.png"
               }
             }
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 418.5
   },
   "right": {
     "id": "c81351c154d9a15b",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/backend/Screen Shot 2023-03-27 at 9.41.16 PM.png",
+                "file": "assets/images/backend/Pasted image 20230321233022.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/backend/Screen Shot 2023-03-27 at 9.41.16 PM.png",
+                "file": "assets/images/backend/Pasted image 20230321233022.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/backend/Screen Shot 2023-03-27 at 9.41.16 PM.png"
+                "file": "assets/images/backend/Pasted image 20230321233022.png"
               }
             }
           }
@@ -144,19 +144,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e01a6fabb37f56f",
+  "active": "960fa16d553823d5",
   "lastOpenFiles": [
-    "assets/images/backend/Pasted image 20230327171656.png",
-    "Pasted image 20230327171624.png",
-    "assets/images/postgres/queries/Screen Shot 2023-01-02 at 12.31.25 AM.png",
-    "assets/images/postgres/queries/Screen Shot 2023-01-02 at 12.55.55 AM.png",
-    "assets/images/postgres/queries/Screen Shot 2023-01-16 at 11.28.58 PM.png",
-    "assets/images/postgres/queries/Screen Shot 2023-01-02 at 9.34.40 PM.png",
-    "assets/images/postgres/queries/Screen Shot 2023-01-02 at 8.58.27 PM.png",
-    "assets/images/postgres/queries/Screen Shot 2023-01-01 at 10.45.53 PM.png",
-    "assets/images/postgres/queries/Screen Shot 2023-01-02 at 6.32.30 PM.png",
-    "assets/images/postgres/queries/Screen Shot 2023-01-01 at 8.40.19 PM.png",
-    "assets/images/postgres/queries/Screen Shot 2023-01-01 at 10.58.52 PM.png",
+    "assets/images/backend/Pasted image 20230325000240.png",
+    "assets/images/backend/Pasted image 20230321233022.png",
+    "assets/images/backend/The-Physical-Layer-in-OSI-Model-Explained-thumbnail.jpeg",
+    "assets/images/backend/Screen Shot 2023-03-29 at 8.38.54 PM.png",
+    "assets/images/backend/Screen Shot 2023-03-28 at 12.02.17 AM 1.png",
+    "assets/images/backend/Screen Shot 2023-03-27 at 9.41.27 PM.png",
+    "assets/images/backend/Screen Shot 2023-03-28 at 12.02.17 AM.png",
+    "assets/images/backend/Screen Shot 2023-03-21 at 1.19.50 AM.png",
+    "assets/images/backend/Screen Shot 2023-03-20 at 11.32.08 PM.png",
+    "assets/images/backend/Screen Shot 2023-03-27 at 9.41.16 PM.png",
+    "assets/images/backend/Pasted image 20230329221836.png",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Further Studying.md",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Backend Communication Design Patterns.md",
+    "README.md",
     "assets/images/postgres/migrations",
     "assets/images/postgres/internals",
     "assets/images/postgres/security",
@@ -170,7 +174,6 @@
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Full Text Search/Overview.md",
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Full Text Search/Full Text Search.md",
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Full Text Search",
-    "README.md",
     "Areas/Programming/Backend/Databases/Postgres/Client Interfaces/Index.md",
     "Areas/Programming/Backend/Databases/Postgres/Client Interfaces",
     "Resources/Programming/TCP.md",
@@ -181,7 +184,6 @@
     "Areas/Programming/Backend/Databases/Postgres/Server Administration/Vacuum.md",
     "Areas/Programming/Backend/Databases/Postgres/Server Administration/Testing.md",
     "Areas/Programming/Backend/Databases/Postgres/Server Administration/Prepared Statements.md",
-    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Further Studying.md",
     "Resources/Programming/Locality of Reference.md",
     "Areas/Programming/Backend/Databases/Postgres/Server Administration/Reliability and WAL.md",
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Performance Tips/Overview.md",
@@ -189,8 +191,6 @@
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Queries/Overview.md",
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Overview.md",
     "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Manipulation/Overview.md",
-    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Definition/Row Security Policies.md",
-    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Definition/Privileges.md",
     "assets/images/postgres/queries/009_-_joins_-_cheatsheet.pdf"
   ]
 }
