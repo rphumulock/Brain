@@ -337,7 +337,19 @@ Once a connection is established, ACKs typically follow for each segment. The co
 -   ECH - Encrypted Client Hello
 
 ---
-## HTTP / HTTP1.1
+## HTTP/1.1
+
+---
+## HTTP/2
+
+---
+## HTTP/3
 
 ---
 ## WebSockets
+
+---
+## gRPC
+
+---
+## WebRTC

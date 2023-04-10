@@ -11,11 +11,9 @@
             "id": "960fa16d553823d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/images/backend/connection-pooling.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "assets/images/backend/connection-pooling.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "assets/images/backend/connection-pooling.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "assets/images/backend/connection-pooling.png"
               }
             }
           }
@@ -146,22 +144,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "960fa16d553823d5",
+  "active": "3e01a6fabb37f56f",
   "lastOpenFiles": [
-    "assets/images/backend/Pasted image 20230321233022.png",
-    "assets/images/backend/Pasted image 20230325000240.png",
-    "assets/images/backend/The-Physical-Layer-in-OSI-Model-Explained-thumbnail.jpeg",
-    "assets/images/backend/Screen Shot 2023-03-29 at 8.38.54 PM.png",
-    "assets/images/backend/Screen Shot 2023-03-28 at 12.02.17 AM 1.png",
-    "assets/images/backend/Screen Shot 2023-03-27 at 9.41.27 PM.png",
-    "assets/images/backend/Screen Shot 2023-03-28 at 12.02.17 AM.png",
-    "assets/images/backend/Screen Shot 2023-03-21 at 1.19.50 AM.png",
-    "assets/images/backend/Screen Shot 2023-03-20 at 11.32.08 PM.png",
-    "assets/images/backend/Screen Shot 2023-03-27 at 9.41.16 PM.png",
-    "assets/images/backend/Pasted image 20230329221836.png",
-    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md",
-    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Further Studying.md",
+    "assets/images/backend/Pasted image 20230326143108.png",
+    "assets/images/backend/http1.1-multip.png",
+    "assets/images/backend/osi-model2.png",
+    "assets/images/backend/http2-multip2.png",
+    "assets/images/backend/http2-multip1.png",
+    "assets/images/backend/multip1.png",
+    "assets/images/backend/pub-sub.png",
+    "assets/images/backend/sse.png",
+    "assets/images/backend/polling-long.png",
+    "assets/images/backend/polling-short.png",
+    "assets/images/backend/push1.png",
     "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Backend Communication Design Patterns.md",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Further Studying.md",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md",
     "README.md",
     "assets/images/postgres/migrations",
     "assets/images/postgres/internals",

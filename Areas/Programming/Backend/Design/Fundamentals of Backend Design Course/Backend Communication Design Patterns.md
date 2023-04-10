@@ -71,8 +71,6 @@ Client library that can be used to send Requests.
 3. Main program still running and executing code.
 4. Thread finishes reading and calls back main thread.
 
- ![[Screen Shot 2023-03-21 at 1.19.50 AM.png]]
-
 #### Synchronicity in Request/Response
 - More of the Client trait but most of the time we're usually working Asynchronously.
 - Client sends Request and then continues to do the work - why block?
@@ -106,7 +104,7 @@ Client library that can be used to send Requests.
 	- Client does not have to request anything.
 3. Protocol should be bidirectional.
 
-![[Pasted image 20230325000248.png]]
+![[push1.png]]
 
 #### Pros
 - Real time.
@@ -165,7 +163,7 @@ ws.send("Hello! I'm client")
 4. Client uses that handle to check the status of the Request.
 	- Multiple short Requests/Responses sent for polling.
 
-![[Pasted image 20230325204338.png]]
+![[polling-short.png]]
 
 #### Pros
 - Simple.
@@ -226,7 +224,7 @@ function updateJob(jobId, prg) {
 	- Client has handle - can disconnect and are less chatty.
 	- Client Polls when it wants to.
 
-![[Pasted image 20230325212209.png]]
+![[polling-long.png]]
 
 #### Pros
 - Less chatty than Short Polling.
@@ -294,7 +292,7 @@ function updateJob(jobId, prg) {
 	- It is still a Request but an unending Response.
 1. Client parses the stream data looking for events.
 
-![[Pasted image 20230326142007.png]]
+![[sse.png]]
 
 #### Pros
 - Real time
@@ -358,7 +356,7 @@ console.log(`Listening on ${port}`)
 4. If the event is relevant to the service - the service will process and return back to broker.
 5. Broker will publish new event based on that service and chain continues until it finishes.
 
-![[Pasted image 20230326143358.png]]
+![[pub-sub.png]]
 
 #### Pros
 - Scales w/ multiple receivers.
@@ -385,20 +383,20 @@ Multiplexing, or _muxing_, is a way of sending multiple signals or streams of 
 - Has a max ~200 some connections.
 
 ![[Pasted image 20230326150809.png]]
-![[Pasted image 20230326145322.png]]
+![[http2-multip1.png]]
 
 - Can decouple Client from architecture and have Proxy server use Client HTTP1.1 front end but HTTP2 - for backend.
 - Will put some load on the backend server to parse the Request.
-![[Pasted image 20230326145434.png]]
+![[http2-multip2.png]]
 **Inverse:**
-![[Pasted image 20230326145459.png]]
+![[http1.1-multip.png]]
 
 - PostGres works this way.
 - Maxmimum number of connections configured that wil lbe used for Requests.
 - New Requests will be blocked until a connection frees.
 - Can multiplex because order isn't guaranteed on query executions - so what query response data goes to what Request isn't known.
 	- Could set this up if you wanted.
-![[Pasted image 20230326150442.png]]
+![[connection-pooling.png]]
 
 ---
 ## Stateful vs Stateless
