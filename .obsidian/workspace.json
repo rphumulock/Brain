@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/images/backend/connection-pooling.png"
+                "file": "assets/images/backend/Pasted image 20230329221651.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/backend/connection-pooling.png",
+                "file": "assets/images/backend/Pasted image 20230329221651.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/backend/connection-pooling.png",
+                "file": "assets/images/backend/Pasted image 20230329221651.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/backend/connection-pooling.png"
+                "file": "assets/images/backend/Pasted image 20230329221651.png"
               }
             }
           }
@@ -144,19 +144,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e01a6fabb37f56f",
+  "active": "960fa16d553823d5",
   "lastOpenFiles": [
+    "assets/images/backend/Pasted image 20230329221747.png",
+    "assets/images/backend/Pasted image 20230329221809.png",
+    "assets/images/backend/Pasted image 20230329221651.png",
+    "assets/images/backend/Pasted image 20230329204928.png",
+    "assets/images/backend/Pasted image 20230329204758.png",
+    "assets/images/backend/Pasted image 20230329010216.png",
+    "assets/images/backend/Pasted image 20230327171656.png",
+    "assets/images/backend/Pasted image 20230326153458.png",
     "assets/images/backend/Pasted image 20230326143108.png",
-    "assets/images/backend/http1.1-multip.png",
-    "assets/images/backend/osi-model2.png",
-    "assets/images/backend/http2-multip2.png",
-    "assets/images/backend/http2-multip1.png",
-    "assets/images/backend/multip1.png",
-    "assets/images/backend/pub-sub.png",
-    "assets/images/backend/sse.png",
-    "assets/images/backend/polling-long.png",
-    "assets/images/backend/polling-short.png",
-    "assets/images/backend/push1.png",
+    "assets/images/backend/http1.png",
+    "assets/images/backend/Pasted image 20230329205334.png",
     "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Backend Communication Design Patterns.md",
     "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Further Studying.md",
     "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md",

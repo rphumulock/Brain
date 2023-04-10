@@ -15,7 +15,7 @@
 5. Server sends a Response.
 6. Client parses the Response and consumes.
 	- More deserialization/parsing occurs.
-![[Screen Shot 2023-03-20 at 11.25.57 PM.png]]
+![[res-res.png]]
 #### Where is it used
 - Web, HTTP, DNS, SSH
 - RPC (remove procedure call)
@@ -25,7 +25,7 @@
 #### Anatomy
 - A request structure is defined by both client and server. Libraries will parse the request packets and put them back together (ex. HTTP) - you don't have to worry about it. Every library you utilize is doing work as well as your own code.
 - Request/Response has a boundary defined by a protocol and a message format.
-![[Screen Shot 2023-03-20 at 11.32.08 PM.png]]
+![[http1.png]]
 
 #### Different techniques can be used
 Building an upload image service with Request/Response
@@ -382,14 +382,14 @@ Multiplexing, or _muxing_, is a way of sending multiple signals or streams of 
 - HTTP2 uses one connection and multiplexes multiple Requests using that one connection.
 - Has a max ~200 some connections.
 
-![[Pasted image 20230326150809.png]]
+![[http1-multip2.png]]
 ![[http2-multip1.png]]
 
 - Can decouple Client from architecture and have Proxy server use Client HTTP1.1 front end but HTTP2 - for backend.
 - Will put some load on the backend server to parse the Request.
 ![[http2-multip2.png]]
 **Inverse:**
-![[http1.1-multip.png]]
+![[http1-multip1.png]]
 
 - PostGres works this way.
 - Maxmimum number of connections configured that wil lbe used for Requests.
@@ -416,9 +416,9 @@ Multiplexing, or _muxing_, is a way of sending multiple signals or streams of 
 - The backend remain stateless but the system is stateful
 - Can you restart the backend during idle time and the client workflow continue to work?
 
-![[Pasted image 20230326152749.png]]
-![[Pasted image 20230326152759.png]]
-![[Pasted image 20230326152813.png]]
+![[stateful1.png]]
+![[stateful2.png]]
+![[stateless1.png]]
 
 #### Stateless vs Stateful protocols
 - The Protocols can be designed to store state
@@ -460,7 +460,7 @@ Multiplexing, or _muxing_, is a way of sending multiple signals or streams of 
 - Meet Sidecar pattern
 - Each client must have a sidecar proxy
 
-![[Pasted image 20230326153650.png]]
+![[sidecar.png]]
 
 **Examples:**
 - Service Mesh Proxies.

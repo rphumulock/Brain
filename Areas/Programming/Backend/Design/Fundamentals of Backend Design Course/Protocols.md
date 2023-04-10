@@ -56,12 +56,12 @@ The Data Link Layer provides node-to-node data transfer (between two directly co
 #### Layer 1 - Physical
 At the bottom of our OSI model we have the Physical Layer, which represents the electrical and physical representation of the system. This can include everything from the cable type, radio frequency link (as in a Wi-Fi network), as well as the layout of pins, voltages, and other physical requirements. When a networking problem occurs, many networking pros go right to the physical layer to check that all of the cables are properly connected and that the power plug hasn’t been pulled from the router, switch or computer, for example.
 
-![[The-Physical-Layer-in-OSI-Model-Explained-thumbnail.jpeg]]
+![[osi-model4.jpeg]]
 
 ![[Pasted image 20230327002308.png]]
 - One mental modely you can take is that each layer wraps the previous layers data.
 
-![[Pasted image 20230327002212.png]]
+![[osi-model3.png]]
 
 ---
 ## IP Protocol
@@ -117,7 +117,7 @@ The **Internet Protocol** (**IP**) is the [network layer](https://en.wikipedia.o
 - Data section can go up to 65536 (64kilobytes).
 - 4 bytes for 5 rows for header:
 
-![[Pasted image 20230327173220.png]]
+![[ip1.png]]
 
 #### MTU
 >https://en.wikipedia.org/wiki/Maximum_transmission_unit
@@ -141,7 +141,7 @@ The **Internet Protocol** (**IP**) is the [network layer](https://en.wikipedia.o
 #### ICMP DataGram
 >https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol#Datagram_structure
 
-![[Screen Shot 2023-03-27 at 9.41.27 PM.png]]
+![[icmp1.png]]
 
 #### ICMP Caveats
 - Some firewalls block ICMP for security reasons.
@@ -296,7 +296,7 @@ Once a connection is established, ACKs typically follow for each segment. The co
 
 #### Anatomy of a Segment
 >https://en.wikipedia.org/wiki/Transmission_Control_Protocol#TCP_segment_structure
-![[Screen Shot 2023-03-29 at 8.38.54 PM.png]]
+![[tcp1.png]]
 
 ---
 ## Maximum Segment Size
