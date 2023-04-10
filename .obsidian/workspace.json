@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "2bda0edae1ae249c",
+    "type": "split",
+    "children": [
+      {
+        "id": "92d323ddc750b447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "960fa16d553823d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43a5062b5815c4df",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc18270cebae16a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e01a6fabb37f56f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19000068b9a7e418",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "transaction",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0791a2a895ea2d6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "c81351c154d9a15b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7ed26a08b5e0c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f4d8285590993de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "051986eecfb30aed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f6346be3afdd2e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5907f50a76767c9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "960fa16d553823d5",
+  "lastOpenFiles": [
+    "Pasted image 20230329010216.png",
+    "Resources/Programming/Containers.md",
+    "Resources/Programming/Clean Code - Horrible Performance.md",
+    "Resources/Programming/Asynchronous Replication.md",
+    "Resources/Programming/Locality of Reference.md",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Protocols.md",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Further Studying.md",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Backend Communication Design Patterns.md",
+    "Pasted image 20230329221836.png",
+    "Pasted image 20230329221817.png",
+    "Pasted image 20230329221809.png",
+    "Pasted image 20230329221747.png",
+    "Pasted image 20230329221703.png",
+    "Pasted image 20230329221651.png",
+    "Pasted image 20230329205334.png",
+    "Pasted image 20230329204928.png",
+    "Pasted image 20230329204835.png",
+    "Resources/Programming/TCP.md",
+    "Resources/Programming/Subnet Masks.md",
+    "Resources/Stateful vs Stateless.md",
+    "Resources/Programming/Long Polling vs WebSockets vs SSE.md",
+    "Resources/Programming/Multiplexing - Demultiplexing.md",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course/Synchronous - Asynchronous.md",
+    "Areas/Programming/Backend/Databases/Postgres/Server Administration/Index.md",
+    "Areas/Programming/Backend/Databases/Postgres/Server Administration/Reliability and WAL.md",
+    "Areas/Programming/Backend/Databases/Postgres/Untitled.md",
+    "Areas/Programming/Backend/Databases/Postgres/Server Programming/Extending SQL.md",
+    "Asynchronous Commits.md",
+    "assets/images/backend",
+    "Areas/Programming/Databases/Postgres/Internals/Internals.md",
+    "Areas/Programming/Container Management/Docker Class/Untitled.md",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Performance Tips/Explain Analyze.md",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Types/Data Types.md",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Definition/Table Partitioning.md",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Queries/Queries.md",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Indexes/Indexes.md",
+    "Areas/Programming/Container Management/Docker Class",
+    "Areas/Programming/Backend/Design/Fundamentals of Backend Design Course",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Functions and Operators",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Manipulation",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Performance Tips",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Full Text Search",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Definition",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/SQL Syntax",
+    "Areas/Programming/Backend/Databases/Postgres/The SQL Language/Data Types"
+  ]
+}

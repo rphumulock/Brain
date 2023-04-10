@@ -1,0 +1,1 @@
+>https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions#:~:text=In%20computing%2C%20Streaming%20SIMD%20Extensions,Devices%20(AMD's)%203DNow!.

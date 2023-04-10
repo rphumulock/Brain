@@ -1,0 +1,3 @@
+>[PostgreSQL: Documentation: 15: 5.2. Default Values](https://www.postgresql.org/docs/current/ddl-default.html)
+
+A column can be assigned a default value. When a new row is created and no values are specified for some of the columns, those columns will be filled with their respective default values. A data manipulation command can also request explicitly that a column be set to its default value, without having to know what that value is.
